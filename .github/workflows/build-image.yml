@@ -44,4 +44,4 @@ jobs:
           build-args: |
             VERSION=${{ inputs.electrumx-version }}
           # List of tags
-          tags: lucky2077/atomicals-electrumx:${{ inputs.image-version }}
+          tags: sfhoo/atomicals-electrumx:${{ inputs.image-version }}
